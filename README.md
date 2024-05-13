@@ -1,0 +1,1 @@
+# GitCommitBestPractices.md
